@@ -44,4 +44,4 @@ Business Impact & Insights:
 - Interactivity: Filters allow users to drill into specific products, customers, or periods, supporting ad hoc analysis, routine reviews, or board reporting.
 
 Dashboard Preview:
-https://github.com/singhanukriti/Plant-Co-Dashboard/blob/main/Dashboard%20Preview.png
+![Dashboard Preview](https://github.com/singhanukriti/Plant-Co-Dashboard/blob/main/Dashboard%20Preview.png)
